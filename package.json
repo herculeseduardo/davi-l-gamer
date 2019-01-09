@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/herculeseduardo/davi-l-gamer#readme"
+  "homepage": "https://github.com/herculeseduardo/davi-l-gamer#readme",
+  "devDependencies": {
+    "surge": "latest"
+  }
 }
